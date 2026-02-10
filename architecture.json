@@ -1,0 +1,161 @@
+{
+  "book_id": "african-independence-metafictional-exile-diaspora",
+  "title": "The Grey Suspended Water",
+  "tagline": "An exiled writer navigates the cold currents of London, his father's political past, and the haunting silence where his stories used to be.",
+  "target_words": 70000,
+  "actual_words": 63975,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Political Exile",
+    "Fathers and Sons in the Diaspora",
+    "The Silence of the Writer Abroad",
+    "Post-Independence Ideals vs. Exile Reality",
+    "Archives as Home and Prison"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Arrivals",
+      "words": 2665
+    },
+    {
+      "ch": 2,
+      "title": "The Fortress of Books",
+      "words": 2665
+    },
+    {
+      "ch": 3,
+      "title": "The First Lecture",
+      "words": 2665
+    },
+    {
+      "ch": 4,
+      "title": "The Reading List",
+      "words": 2665
+    },
+    {
+      "ch": 5,
+      "title": "Miriam's Stories",
+      "words": 2665
+    },
+    {
+      "ch": 6,
+      "title": "Letters to Lagos",
+      "words": 2665
+    },
+    {
+      "ch": 7,
+      "title": "The General's Shadow",
+      "words": 2665
+    },
+    {
+      "ch": 8,
+      "title": "A Night at the Archive",
+      "words": 2665
+    },
+    {
+      "ch": 9,
+      "title": "The Dean's Invitation",
+      "words": 2665
+    },
+    {
+      "ch": 10,
+      "title": "Fanon in the Rain",
+      "words": 2665
+    },
+    {
+      "ch": 11,
+      "title": "The Unwritten Article",
+      "words": 2665
+    },
+    {
+      "ch": 12,
+      "title": "Voices from the Crucible",
+      "words": 2665
+    },
+    {
+      "ch": 13,
+      "title": "The Basement Manuscript",
+      "words": 2665
+    },
+    {
+      "ch": 14,
+      "title": "A Call from Surulere",
+      "words": 2665
+    },
+    {
+      "ch": 15,
+      "title": "Confronting the Monument",
+      "words": 2665
+    },
+    {
+      "ch": 16,
+      "title": "The Windrush Connection",
+      "words": 2665
+    },
+    {
+      "ch": 17,
+      "title": "Breaking the Silence",
+      "words": 2665
+    },
+    {
+      "ch": 18,
+      "title": "The Theory of Rain",
+      "words": 2665
+    },
+    {
+      "ch": 19,
+      "title": "Drafting in the Void",
+      "words": 2665
+    },
+    {
+      "ch": 20,
+      "title": "The Performance of Exile",
+      "words": 2665
+    },
+    {
+      "ch": 21,
+      "title": "Shorelines",
+      "words": 2665
+    },
+    {
+      "ch": 22,
+      "title": "The Imperfect Moon",
+      "words": 2665
+    },
+    {
+      "ch": 23,
+      "title": "Not a Tourist",
+      "words": 2665
+    },
+    {
+      "ch": 24,
+      "title": "The Current",
+      "words": 2665
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Kofi to his mother in Lagos, describing a mundane London experience through the lens of profound dislocation.",
+      "Compose Miriam's internal monologue as she observes the strained relationship between the Professor and Kofi over dinner.",
+      "Draft the 'too direct' article Kofi wrote that forced his exile from Lagos.",
+      "Write a scene where Kofi discovers a marginal note in one of his father's books that changes his understanding of the past."
+    ],
+    "technical": [
+      "Build a 'Silence Index' web app that analyzes text for sensory density (sounds, smells, textures), contrasting Kofi's Lagos writing with his London drafts.",
+      "Create an interactive map tracing the novel's dual geographies: the physical London locations and the remembered/imagined spaces of Lagos and political history."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "James Baldwin",
+      "Italo Calvino",
+      "Audre Lorde"
+    ]
+  },
+  "cover_prompt": "A middle-aged African writer in exile, his face etched with weary contemplation, sits at a rain-streaked window overlooking the Thames, a stack of untouched notebooks and a single fading photograph of his father before him, [Detailed Scene & Context: the interior of a sparse, cold-water flat in London, shelves lined with political pamphlets and archival boxes, the ghostly reflection of the city's grey skyline superimposed on the glass, merging with his own troubled visage], [Artistic Style & Medium: in the atmospheric, textured style of Lynette Yiadom-Boakye's portraiture and the muted, layered interiors of Vilhelm Hammershøi, rendered in oil on canvas with subtle impasto], [Composition & Camera: book cover framing, a centered and intimate composition with a shallow depth of field, the subject framed by the window, a dramatic close-up angle that captures both his isolation and the vast, oppressive city beyond], [Lighting & Color Palette: diffused, melancholic daylight from a overcast sky, casting soft, directionless shadows, a color palette of steely greys, damp charcoal, muted slate blues, and the warm, fragile amber of the old photograph], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
